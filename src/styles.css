@@ -198,7 +198,7 @@ footer {
 }
 
 .pokemon-type-poison {
-  --pokemon-type-color: #a4a;
+  --pokemon-type-color: rgb(146, 59, 146);
 }
 
 .pokemon-type-psychic {
