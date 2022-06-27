@@ -186,11 +186,11 @@ footer {
 }
 
 .pokemon-type-ground {
-  --pokemon-type-color: #ec6;
+  --pokemon-type-color: rgb(218, 186, 91);
 }
 
 .pokemon-type-ice {
-  --pokemon-type-color: #9ed;
+  --pokemon-type-color: rgb(127, 206, 190);
 }
 
 .pokemon-type-normal {
